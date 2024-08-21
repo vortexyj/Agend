@@ -48,8 +48,6 @@ users can review their spending history and calculate their total expenses over 
 
 ## Screenshots
 
-## Screenshots
-
 ### Login and Register Screens
 
 <img src="https://drive.google.com/uc?id=1sQviq-XJRWXbFA90PXtfC_3i31kHsO1E" alt="Login Screen" width="300"/>  
