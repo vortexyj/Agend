@@ -48,24 +48,36 @@ users can review their spending history and calculate their total expenses over 
 
 ## Screenshots
 
-![Login Screen](https://drive.google.com/uc?id=1sQviq-XJRWXbFA90PXtfC_3i31kHsO1E)  
-*Login and registration page.*
-![Setup Profile](https://drive.google.com/uc?id=1IVXU5vWyE-t-rjKJmUfq5pRztYochGsK)  
-*Login and registration page.*
+## Screenshots
 
-![Add Items](https://drive.google.com/uc?id=14ZKzIp8u5jpCoE9pflOUKo98hYd9yapN)  
+### Login and Register Screens
+
+<img src="https://drive.google.com/uc?id=1sQviq-XJRWXbFA90PXtfC_3i31kHsO1E" alt="Login Screen" width="300"/>  
+*Login Screen*
+
+<img src="https://drive.google.com/uc?id=1IVXU5vWyE-t-rjKJmUfq5pRztYochGsK" alt="Setup Profile" width="300"/>  
+*Setup Profile Screen*
+
+### Add Items
+
+<img src="https://drive.google.com/uc?id=14ZKzIp8u5jpCoE9pflOUKo98hYd9yapN" alt="Add Items" width="300"/>  
 *Add your daily expenses.*
 
-![Summary of the Day](https://drive.google.com/uc?id=13zrldIvtVIfLvW0n07vt-q84CPB8OBRw)  
+### Summary of the Day
+
+<img src="https://drive.google.com/uc?id=13zrldIvtVIfLvW0n07vt-q84CPB8OBRw" alt="Summary of the Day" width="300"/>  
 *View a summary of your daily expenses.*
 
-![Search for a Day](https://drive.google.com/uc?id=1UrbvytQZWIAS9-Hixj2A7YbFegg9dUtz)  
+### Search for a Day
+
+<img src="https://drive.google.com/uc?id=1UrbvytQZWIAS9-Hixj2A7YbFegg9dUtz" alt="Search for a Day" width="300"/>  
 *Search for specific days to see your spending history.*
 
-![Logout](https://drive.google.com/uc?id=1ot-M8Qev95Nec6ryppZnxZRaS8j4y8Og)  
-*Search for specific days to see your spending history.*
+### Logout
 
-(*Replace the placeholders above with actual links to your images on Google Drive.*)
+<img src="https://drive.google.com/uc?id=1ot-M8Qev95Nec6ryppZnxZRaS8j4y8Og" alt="Logout" width="300"/>  
+*Logout Screen*
+
 
 ## Contributing
 
